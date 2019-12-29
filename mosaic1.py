@@ -1,3 +1,5 @@
+'''Mosaic #1: https://ibb.co/DfBtvgN'''
+
 import turtle
 import math
 
