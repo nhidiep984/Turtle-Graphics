@@ -2,4 +2,4 @@
 
 Graphics created in Python using the Turtle library
 
-https://ibb.co/DfBtvgN
+Mosaic #1: https://ibb.co/DfBtvgN
